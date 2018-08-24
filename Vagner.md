@@ -12,3 +12,7 @@ https://www.campograndenews.com.br/lado-b/diversao/cliente-escolhe-qual-musica-v
 
 
 https://catracalivre.com.br/criatividade/jukebox-social-app-para-escolher-as-musicas-que-tocam-nos-bares/
+
+### Link do Artigo em inglês abaixo
+
+https://www.researchgate.net/profile/Andreas_Komninos2/publication/221271007_AmbientDJ_Enabling_Interaction_between_People_and_Socially_Aware_Environments/links/551533790cf2d70ee26fbef9/AmbientDJ-Enabling-Interaction-between-People-and-Socially-Aware-Environments.pdf
